@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
 DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.co
 DOMAIN-SUFFIX,pttime.org
