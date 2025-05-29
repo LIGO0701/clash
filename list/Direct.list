@@ -2,25 +2,6 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,ieeexplore.ieee.org
-DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,webofscience.com
-DOMAIN-SUFFIX,engineeringvillage.com
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-SUFFIX,manual.gromacs.org
-DOMAIN-KEYWORD,sci-hub
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-SUFFIX,iresearchbook.cn
-DOMAIN-SUFFIX,elsevier.com
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,webofknowledge.com
-DOMAIN-SUFFIX,pubs.acs.org
-DOMAIN-SUFFIX,scitation.org
-DOMAIN-SUFFIX,tandfonline.com
-
-
-
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
